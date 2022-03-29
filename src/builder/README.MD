@@ -1,0 +1,1 @@
+```npx tsc example.ts --target es5 && node example.js```
